@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0640"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+               BuildableName = "WeatherApp WatchKit App.app"
+               BlueprintName = "WeatherApp WatchKit App"
+               ReferencedContainer = "container:WeatherApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FA7355881B88065300DDF252"
+               BuildableName = "WeatherApp.app"
+               BlueprintName = "WeatherApp"
+               ReferencedContainer = "container:WeatherApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FA7CBC161B893EEE0098414C"
+               BuildableName = "WeatherApp WatchKit Extension.appex"
+               BlueprintName = "WeatherApp WatchKit Extension"
+               ReferencedContainer = "container:WeatherApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+            BuildableName = "WeatherApp WatchKit App.app"
+            BlueprintName = "WeatherApp WatchKit App"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WeatherApp">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+            BuildableName = "WeatherApp WatchKit App.app"
+            BlueprintName = "WeatherApp WatchKit App"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+            BuildableName = "WeatherApp WatchKit App.app"
+            BlueprintName = "WeatherApp WatchKit App"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WeatherApp">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+            BuildableName = "WeatherApp WatchKit App.app"
+            BlueprintName = "WeatherApp WatchKit App"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FA7CBC201B893EEE0098414C"
+            BuildableName = "WeatherApp WatchKit App.app"
+            BlueprintName = "WeatherApp WatchKit App"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
